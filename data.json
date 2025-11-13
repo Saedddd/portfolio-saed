@@ -2,6 +2,9 @@
     "name": "",
     "landing": {
         "title": "Привет, я Саид",
+        "city": "г. Алматы",
+        "phone" : "+77073728310",
+
         "subtitles": [
             "Full-stack developer(first Frontend)",
             "Cross-platform developer",
@@ -22,6 +25,11 @@
                 "alt": "Email",
                 "icon": "gmail",
                 "link": "razrabot00@mail.ru"
+            },
+            {
+                "alt": "@saedakhram",
+                "icon": "telegram",
+                "link": "@saedakhram"
             }
         ]
     },

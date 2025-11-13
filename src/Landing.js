@@ -58,6 +58,14 @@ export default function Landing() {
                 <Typography variant={mdDown ? "h2" : "h1"}>
                     {landing.title}
                 </Typography>
+                <Typography 
+                    variant={mdDown ? "h6" : "h5"}>
+                    {landing.city}
+                </Typography>
+                 <Typography 
+                    variant={mdDown ? "h6" : "h5"}>
+                    {landing.phone}
+                </Typography>
                 <Typography variant={mdDown ? "h5" : "h4"} component="h2" className={classes.subtitle}>
 
                     <ReactTyped
