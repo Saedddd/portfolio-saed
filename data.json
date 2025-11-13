@@ -1,34 +1,27 @@
 {
-    "name": "Kaustubh Odak",
+    "name": "",
     "landing": {
-        "title": "Hi, I'm Kaustubh",
+        "title": "Привет, я Саид",
         "subtitles": [
-            "Full-stack developer 🌐",
-            "Cross-platform developer 📱💻",
-            "Exploring cloud ☁️",
-            "Beginner in devops ♾️",
-            "Just getting started 📈"
+            "Full-stack developer(first Frontend)",
+            "Cross-platform developer",
+            "Beginner in DevOps"
         ],
         "professionalDetails": [
             {
-                "alt": "kaustubh-odak",
+                "alt": "saidakhram-muzakperov",
                 "icon": "linkedin",
-                "link": "https://www.linkedin.com/in/kaustubh-odak/"
+                "link": "https://www.linkedin.com/in/saidakhram-muzakperov-7771792a2/"
             },
             {
-                "alt": "kausko",
-                "icon": "stackoverflow",
-                "link": "https://stackoverflow.com/users/15832433/kausko"
-            },
-            {
-                "alt": "kausko",
+                "alt": "Saedddd",
                 "icon": "github",
-                "link": "https://github.com/kausko"
+                "link": "https://github.com/Saedddd"
             },
             {
                 "alt": "Email",
                 "icon": "gmail",
-                "link": "mailto:iam@kaustubhodak.me,kaustubhodak1@gmail.com"
+                "link": "razrabot00@mail.ru"
             }
         ]
     },
@@ -40,16 +33,12 @@
             "C++",
             "Python",
             "HTML5",
-            "CSS3",
-            "Kotlin",
-            "Dart"
+            "CSS3"
         ],
         "Frontend": [
             "React",
             "Redux",
             "Next.js",
-            "Gatsby",
-            "Netlify",
             "Vercel",
             "Material-UI",
             "antdesign",
@@ -62,22 +51,8 @@
             "MongoDB",
             "MySQL",
             "PostgreSQL",
-            {
-                "alt": "Azure",
-                "icon": "microsoftazure"
-            },
             "Heroku",
             "Firebase"
-        ],
-        "Mobile": [
-            {
-                "alt": "React_Native",
-                "icon": "react",
-                "backgroundColor": "#424242"
-            },
-            "Expo",
-            "Android",
-            "Flutter"
         ]
     },
     "projects": {
@@ -146,8 +121,8 @@
         ]
     },
     "about": {
-        "description": "I am a full-stack cross-platform app developer, pursuing my M.S. in Computer Science from Georgia Tech. I strive to make meaningful applications with the best UI practices. ",
-        "picture": "/profile.JPG",
+        "description": "Я фронтенд-разработчик, который также разбирается в бэкенде. Создаю современные интерфейсы на React и Next.js и работаю с серверной частью на Node.js, FastAPI. Люблю, когда продукт не только красиво выглядит, но и стабильно работает, принося бизнесу ощутимую пользу.",
+        "picture": "/profile2.png",
         "social": []
     },
     "theme": {

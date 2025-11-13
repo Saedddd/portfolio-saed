@@ -90,10 +90,10 @@ export default function Landing() {
                 <Fade in={true} style={{ transitionDelay: '100ms' }}>
                     <Grid item lg={6}>
                         <Image
-                            src="/landing.svg"
+                            src="/profile.JPG"
                             alt="Landing"
-                            width="900.94"
-                            height="787"
+                            width="400"
+                            height="400"
                         />
                     </Grid>
                 </Fade>
