@@ -6,6 +6,18 @@ module.exports = withPWA({
         dest: 'public'
     },
     images: {
-        domains: ['media-exp1.licdn.com', 'www.nonceblox.com']
+  domains: [
+    'media-exp1.licdn.com',
+    'www.nonceblox.com',
+    'cdn-edge.kwork.ru',   
+    'www.google.com'
+  ],
+  remotePatterns: [
+    {
+      protocol: 'https',
+      hostname: '**.kwork.ru'
     }
+  ]
+}
+
 })

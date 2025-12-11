@@ -77,54 +77,55 @@
     "experience": {
         "Work Experience": [
             {
-                "organization": "CloudDFN LLP",
+                "organization": "Frilane(Kwork)",
                 "role": "Full Stack Developer",
-                "type": "Internship",
-                "startDate": "2020-07-20",
-                "endDate": "2021-01-20",
-                "city": "Mumbai",
-                "state": "Maharashtra",
-                "country": "India",
-                "url": "https://www.linkedin.com/company/clouddfn-llp/",
-                "thumbnail": "/CDFN.jfif"
+                "type": "",
+                "startDate": "2024-10-03",
+                "endDate": "now",
+                "city": "Almaty",
+                "state": "Almaty",
+                "country": "Kazakhstan",
+                "url": "https://kwork.ru/user/saidakhram",
+                "thumbnail": "https://cdn-edge.kwork.ru/images/favicons/favicon-32x32.png"
             },
             {
-                "organization": "NonceBlox Pvt. Ltd.",
-                "role": "Full Stack Developer",
-                "type": "Internship",
-                "startDate": "2021-07-01",
-                "endDate": "2021-10-01",
-                "city": "New Delhi",
-                "state": "Delhi",
-                "country": "India",
-                "url": "https://www.linkedin.com/company/clouddfn-llp/",
-                "thumbnail": "https://www.nonceblox.com/ton3.png"
+                "organization": "Indrive SparkLab",
+                "role": "Frontend Developer",
+                "type": "",
+                "startDate": "2023-10-01",
+                "endDate": "2024-07-28",
+                "city": "Almaty",
+                "state": "Almaty",
+                "country": "Kazakhstan",
+                "url": "https://www.instagram.com/sparklab.indrive/",
+                "thumbnail": "https://www.google.com/s2/favicons?domain=indrive.com"
             }
+            
         ],
-        "Volunteer Experience": [
+        "": [
             {
-                "organization": "PICT IEEE Student Branch (PISB)",
-                "role": "Technical Head",
-                "type": "Member",
-                "startDate": "2019-07-01",
-                "endDate": "",
-                "city": "Pune",
-                "state": "Maharashtra",
-                "country": "India",
-                "url": "https://www.linkedin.com/company/pisbieee/",
-                "thumbnail": "/PISB.jfif"
+                "organization": "Get2Gear",
+                "role": "Frontend Developer",
+                "type": "",
+                "startDate": "2022-04-01",
+                "endDate": "2022-10-01",
+                "city": "Almaty",
+                "state": "Almaty",
+                "country": "Kazakhstan",
+                "url": "https://get2gear.com/",
+                "thumbnail": "https://www.google.com/s2/favicons?domain=get2gear.com"
             },
             {
-                "organization": "Pictoreal",
-                "role": "Technical Head",
-                "type": "Member",
-                "startDate": "2019-07-01",
-                "endDate": "2021-04-01",
-                "city": "Pune",
-                "state": "Maharashtra",
-                "country": "India",
-                "url": "https://www.linkedin.com/company/pictoreal/",
-                "thumbnail": "/Picto.jfif"
+                "organization": "Intc",
+                "role": "Frontend Developer",
+                "type": "",
+                "startDate": "2022-01-01",
+                "endDate": "2022-03-01",
+                "city": "Almaty",
+                "state": "Almaty",
+                "country": "Kazakhstan",
+                "url": "https://intc.kz/ru/",
+                "thumbnail": "https://www.google.com/s2/favicons?domain=intc.kz"
             }
         ]
     },
