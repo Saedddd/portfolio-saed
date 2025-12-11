@@ -58,6 +58,14 @@ export default function Landing() {
                 <Typography variant={mdDown ? "h2" : "h1"}>
                     {landing.title}
                 </Typography>
+                <Typography 
+                    variant={mdDown ? "h6" : "h5"}>
+                    {landing.city}
+                </Typography>
+                 <Typography 
+                    variant={mdDown ? "h6" : "h5"}>
+                    {landing.phone}
+                </Typography>
                 <Typography variant={mdDown ? "h5" : "h4"} component="h2" className={classes.subtitle}>
 
                     <ReactTyped
@@ -90,10 +98,10 @@ export default function Landing() {
                 <Fade in={true} style={{ transitionDelay: '100ms' }}>
                     <Grid item lg={6}>
                         <Image
-                            src="/landing.svg"
+                            src="/profile.JPG"
                             alt="Landing"
-                            width="900.94"
-                            height="787"
+                            width="400"
+                            height="400"
                         />
                     </Grid>
                 </Fade>
